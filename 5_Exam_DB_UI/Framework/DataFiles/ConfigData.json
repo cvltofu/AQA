@@ -1,0 +1,13 @@
+[
+    {
+        "baseUrlWithoutProtocol": "localhost:8080/web",
+        "baseUrl": "http://localhost:8080/web",
+        "apiUrl": "http://localhost:8080/api",
+        "postHeaders": {
+            "Content-type": "application/json; charset=UTF-8"
+        },
+        "attachmentHeaders": {
+            "Content-type": "application/x-www-form-urlencoded; charset=UTF-8"
+        }
+    }
+]

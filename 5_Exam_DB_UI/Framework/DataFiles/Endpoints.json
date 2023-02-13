@@ -1,0 +1,9 @@
+[
+    {
+        "getToken": "/token/get",
+        "getTestsInJson": "/test/get/json",
+        "addTest": "/test/put",
+        "addLoggs": "/test/put/log",
+        "addAttachments": "/test/put/attachment"
+    }
+]

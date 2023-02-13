@@ -1,0 +1,18 @@
+[
+    {
+        "login": "login",
+        "pass": "password",
+        "cookieName": "token",
+        "projectName": "Nexage",
+        "numberOfTestsOnPage": 20,
+        "indexOfFirstTableElem": 2,
+        "indeOfTimeInLine": 4,
+        "lengthOfRandomString": 10,
+        "env": "localhost",
+        "variant": 2,
+        "screenshotsPath": "./Test/Screenshots/",
+        "imagePngBase": "image/png",
+        "loggsPath": "./loggs.log",
+        "txtBase": "utf-8"
+    }
+]
