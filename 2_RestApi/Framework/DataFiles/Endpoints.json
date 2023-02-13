@@ -1,0 +1,6 @@
+[
+    {
+        "postsEndpoint": "/posts/",
+        "usersEndpoint": "/users/"
+    }
+]

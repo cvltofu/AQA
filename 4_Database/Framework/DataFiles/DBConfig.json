@@ -1,0 +1,10 @@
+[
+    {
+        "DBSettings": {
+            "host": "localhost",
+            "user": "root",
+            "database": "union_reporting",
+            "password": "1duwW41574"
+        }
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "postDataOnWall": "wall.post",
+        "editPost": "wall.edit",
+        "getWallUploadServer": "photos.getWallUploadServer",
+        "saveWallPhoto": "photos.saveWallPhoto",
+        "createComment": "wall.createComment",
+        "getLikes": "wall.getLikes",
+        "delete": "wall.delete"
+    }
+]

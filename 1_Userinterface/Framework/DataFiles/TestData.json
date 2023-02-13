@@ -1,0 +1,8 @@
+[
+    {
+        "passLength": "10",
+        "emailLength": "15",
+        "zeroTimer": "00:00:00",
+        "numberOfCheckBoxes": "3"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "baseUrl": "https://vk.com/",
+        "apiUrl": "https://api.vk.com/method/",
+        "postHeaders": {
+            "Content-Type": "application/json; charset=UTF-8"
+        },
+        "ContentType": "multipart/form-data;"
+    }
+]

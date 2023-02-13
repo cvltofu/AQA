@@ -1,0 +1,8 @@
+[
+    {
+        "selectAllFromTest": "SELECT * FROM test",
+        "insertIntoProjectId": "INSERT INTO project(id, name) VALUES(7, 'Erya')",
+        "insertIntoTest": "INSERT INTO test(name, status_id, method_name, project_id, session_id, end_time, env, browser) VALUES ?",
+        "deleteWithCondIfMuchThan": "DELETE FROM test WHERE id > ?"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "baseUrl": "https://jsonplaceholder.typicode.com",
+        "postHeaders": {
+            "Content-type": "application/json; charset=UTF-8"
+        },
+        "browser": "chrome",
+        "numberOfTests": 10
+    }
+]
